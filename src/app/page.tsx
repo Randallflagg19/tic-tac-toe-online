@@ -13,11 +13,11 @@ export default async function Home() {
         hellow
       </Button>
 
-      {games.map((game) => (
-        <Card key={game.id}>
-          <CardTitle>{game.name}</CardTitle>
-        </Card>
-      ))}
+      {/*{games.map((game) => (*/}
+      {/*  <Card key={game.id}>*/}
+      {/*    <CardTitle>{game.name}</CardTitle>*/}
+      {/*  </Card>*/}
+      {/*))}*/}
     </div>
   );
 }
