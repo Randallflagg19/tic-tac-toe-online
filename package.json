@@ -8,7 +8,9 @@
     "start": "next start",
     "lint": "next lint",
     "db:reset": "dotenv -e .env.development -- npx prisma migrate reset",
-    "postinstall": "prisma generate"
+
+    "postinstall": "prisma generate",
+    "prisma:generate": "prisma generate"
   },
   "prisma": {
     "seed": "tsx prisma/seed.ts"
