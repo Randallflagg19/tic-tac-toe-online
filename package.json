@@ -4,13 +4,13 @@
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
-    "build": "next build",
     "start": "next start",
     "lint": "next lint",
     "db:reset": "dotenv -e .env.development -- npx prisma migrate reset",
 
     "postinstall": "prisma generate",
-    "prisma:generate": "prisma generate"
+    "prisma:generate": "prisma generate",
+    "build": "npm run prisma:generate && next build"
   },
   "prisma": {
     "seed": "tsx prisma/seed.ts"
