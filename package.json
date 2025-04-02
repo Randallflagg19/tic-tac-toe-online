@@ -8,8 +8,8 @@
     "lint": "next lint",
     "db:reset": "dotenv -e .env.development -- npx prisma migrate reset",
 
-    "postinstall": "prisma generate",
     "prisma:generate": "prisma generate",
+    "postinstall": "prisma generate",
     "build": "npm run prisma:generate && next build"
   },
   "prisma": {

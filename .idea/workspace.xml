@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eac2a041-ea21-44d4-91d9-7625fe419c8c" name="Changes" comment="feat: prettier" />
+    <list default="true" id="eac2a041-ea21-44d4-91d9-7625fe419c8c" name="Changes" comment="feat: prettier">
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,7 +93,7 @@
       <workItem from="1743514464711" duration="8233000" />
       <workItem from="1743522776059" duration="754000" />
       <workItem from="1743523539446" duration="12892000" />
-      <workItem from="1743569148136" duration="7573000" />
+      <workItem from="1743569148136" duration="7887000" />
     </task>
     <task id="LOCAL-00001" summary="feat: prettier">
       <option name="closed" value="true" />
