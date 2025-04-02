@@ -1,9 +1,23 @@
-import {Button} from '@/shared/ui/button'
+import { Button } from '@/shared/ui/button'
+import { prisma } from '@/shared/lib/db'
+import { Card, CardTitle } from '@/shared/ui/card'
 
-export default function Home() {
+export default async function Home() {
+  const games = await prisma.game.findMany()
+
+  console.log(games)
+
   return (
     <div>
-      <Button variant={'destructive'} className='mt-10 ml-20' size='lg'>hellow</Button>
+      <Button variant={'destructive'} size="lg">
+        hellow
+      </Button>
+
+      {games.map(game => (
+        <Card key={game.id}>
+          <CardTitle>{game.name}</CardTitle>
+        </Card>
+      ))}
     </div>
-  );
+  )
 }
