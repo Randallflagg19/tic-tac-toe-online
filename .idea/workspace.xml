@@ -60,7 +60,7 @@
     "nodejs_package_manager_path": "npm",
     "prettierjs.PrettierConfiguration.Package": "/home/lex/Prog/9hCourse/tic-tac-toe-online/node_modules/prettier",
     "settings.editor.selected.configurable": "preferences.pluginManager",
-    "ts.external.directory.path": "/home/lex/Prog/9hCourse/tic-tac-toe-online/node_modules/typescript/lib",
+    "ts.external.directory.path": "/home/lex/WS/WebStorm-242.20224.342/plugins/javascript-plugin/jsLanguageServicesImpl/external",
     "typescript.add.unambiguous.imports.on.the.fly": "true",
     "vue.rearranger.settings.migration": "true"
   }
@@ -74,6 +74,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/features/games-list/containers" />
       <recent name="$PROJECT_DIR$/src/shared/lib" />
       <recent name="$PROJECT_DIR$/src" />
@@ -99,7 +100,7 @@
       <workItem from="1743523539446" duration="12892000" />
       <workItem from="1743569148136" duration="31960000" />
       <workItem from="1743619241874" duration="1374000" />
-      <workItem from="1743670119471" duration="6751000" />
+      <workItem from="1743670119471" duration="7150000" />
     </task>
     <task id="LOCAL-00001" summary="feat: prettier">
       <option name="closed" value="true" />
