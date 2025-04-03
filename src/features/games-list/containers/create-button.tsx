@@ -16,7 +16,7 @@ export function CreateButton() {
             left: (error) =>
               ({
                 ['can-create-only-one-game']: 'Вы можете создать только одну игру',
-                ['user not found']: 'Пользователя нет'
+                ['user-not-found']: 'Пользователя нет'
               })[error]
           })}
          </div>

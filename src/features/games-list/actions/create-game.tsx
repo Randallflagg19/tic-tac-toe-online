@@ -9,7 +9,7 @@ export const createGameAction = async () => {
   const user = await prisma.user.findFirst()
 
   if (!user){
-    return left('user not found' as const)
+    return left('user-not-found' as const)
   }
   const gameResult = createGame(user);
 

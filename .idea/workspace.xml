@@ -5,27 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eac2a041-ea21-44d4-91d9-7625fe419c8c" name="Changes" comment="feat: prettier">
-      <change afterPath="$PROJECT_DIR$/src/entities/game/domain.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entities/game/repositories/game.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entities/game/server.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entities/game/services/create-game.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entities/game/services/get-idle-games.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/features/games-list/actions/create-game.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/features/games-list/containers/create-button.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/features/games-list/containers/games-list.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/features/games-list/server.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/features/games-list/ui/game-card.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/features/games-list/ui/layout.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shared/lib/either.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shared/lib/password.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shared/lib/react.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prisma/schema.prisma" beforeDir="false" afterPath="$PROJECT_DIR$/prisma/schema.prisma" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prisma/seed.ts" beforeDir="false" afterPath="$PROJECT_DIR$/prisma/seed.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/games-list/actions/create-game.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/games-list/actions/create-game.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/games-list/containers/create-button.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/games-list/containers/create-button.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +103,7 @@
       <workItem from="1743523539446" duration="12892000" />
       <workItem from="1743569148136" duration="31960000" />
       <workItem from="1743619241874" duration="1374000" />
-      <workItem from="1743670119471" duration="4007000" />
+      <workItem from="1743670119471" duration="6299000" />
     </task>
     <task id="LOCAL-00001" summary="feat: prettier">
       <option name="closed" value="true" />
@@ -151,16 +133,5 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: prettier" />
     <option name="LAST_COMMIT_MESSAGE" value="feat: prettier" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/shared/lib/either.ts</url>
-          <line>5</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
