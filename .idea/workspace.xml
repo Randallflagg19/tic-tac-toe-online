@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eac2a041-ea21-44d4-91d9-7625fe419c8c" name="Changes" comment="feat: prettier">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/games-list/actions/create-game.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/games-list/actions/create-game.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/games-list/containers/create-button.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/games-list/containers/create-button.tsx" afterDir="false" />
-    </list>
+    <list default="true" id="eac2a041-ea21-44d4-91d9-7625fe419c8c" name="Changes" comment="feat: prettier" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,7 +99,7 @@
       <workItem from="1743523539446" duration="12892000" />
       <workItem from="1743569148136" duration="31960000" />
       <workItem from="1743619241874" duration="1374000" />
-      <workItem from="1743670119471" duration="6299000" />
+      <workItem from="1743670119471" duration="6751000" />
     </task>
     <task id="LOCAL-00001" summary="feat: prettier">
       <option name="closed" value="true" />
